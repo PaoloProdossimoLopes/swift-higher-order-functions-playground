@@ -68,8 +68,7 @@ git clone https://github.com/PaoloProdossimoLopes/swift-higher-order-functions-p
    
 ### RUN
 So that you can run the project follow this steps:
-1. Choose a simulator 
-2. Then click on the **COMMAND + R** keys or press the ▶︎ (icon at the top of the IDE).
+1. Then press the ▶︎ .
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
