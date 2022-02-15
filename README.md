@@ -44,9 +44,8 @@ In this playground project, I looking for understanding more about higher order 
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
-<!-- 
-<img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">                                 <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
--->
+<img src="https://github.com/PaoloProdossimoLopes/swift-higher-order-functions-playground/blob/main/README_ASSETS/higher-orders.png" width="1000">
+
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
 
